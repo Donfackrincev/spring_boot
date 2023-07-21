@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NewhellowoedApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="newhellowoed" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="projet.tome.cat.newhellowoed.NewhellowoedApplication" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="projet.tome.cat.newhellowoed.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

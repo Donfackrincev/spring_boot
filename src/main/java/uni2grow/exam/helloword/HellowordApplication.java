@@ -1,13 +1,13 @@
-package projet.tome.cat.newhellowoed;
+package uni2grow.exam.helloword;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NewhellowoedApplication {
+public class HellowordApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NewhellowoedApplication.class, args);
+		SpringApplication.run(HellowordApplication.class, args);
 	}
 
 }
